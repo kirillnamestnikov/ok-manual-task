@@ -60,4 +60,7 @@ https://github.com/user-attachments/assets/4d416a4e-9ef6-4199-a80d-71346f0825d9
 
 https://github.com/user-attachments/assets/adeed442-691d-4512-be33-cf8bde692eaf
 
+# Чек лист
 
+| Название функционала | Тест-кейс | Результат |
+|        :---:         |   :---:   |   :---:   |
